@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e031e2-3b84-430a-96f4-f2a28e30d4c2" name="Changes" comment="">
+    <list default="true" id="d21aa3b6-a51d-486e-ad76-1a4b48e06703" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +13,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="master" />
-      </map>
-    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="test" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
@@ -27,7 +35,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2MryC8CwgtWwDIIBsQKn3odL3QE" />
+  <component name="ProjectId" id="2Ms2upoE2ZoniMYwPYTJZ8SUCF6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,12 +55,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27e031e2-3b84-430a-96f4-f2a28e30d4c2" name="Changes" comment="" />
-      <created>1678539867559</created>
+      <changelist id="d21aa3b6-a51d-486e-ad76-1a4b48e06703" name="Changes" comment="" />
+      <created>1678542197763</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678539867559</updated>
-      <workItem from="1678539868733" duration="1260000" />
+      <updated>1678542197763</updated>
+      <workItem from="1678542198556" duration="1112000" />
     </task>
     <servers />
   </component>
@@ -64,7 +72,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
