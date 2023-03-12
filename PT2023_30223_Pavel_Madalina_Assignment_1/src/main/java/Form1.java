@@ -44,7 +44,6 @@ public class Form1 {
         frame.setContentPane(new Form1().panel1);
         frame.setBounds(0,0,900,700);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        //frame.setIconImage(img);
         frame.pack();
         frame.setVisible(true);
     }
