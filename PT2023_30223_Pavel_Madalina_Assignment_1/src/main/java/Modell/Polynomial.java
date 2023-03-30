@@ -5,6 +5,10 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Polynomial {
+    public void setPpolinom(SortedMap<Integer, Float> ppolinom) {
+        this.ppolinom = ppolinom;
+    }
+
     private SortedMap <Integer,Float> ppolinom;
     public Polynomial()
     {

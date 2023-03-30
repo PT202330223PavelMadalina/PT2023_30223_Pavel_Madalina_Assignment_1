@@ -9,7 +9,7 @@ public class Form1 {
     public Form1() {
 
         JFrame frame = new JFrame("Calculator");
-        frame.setIconImage(new ImageIcon("src/calculator.png").getImage());
+        //frame.setIconImage(new ImageIcon("src/$RM469MD.png").getImage());
 
 
 
