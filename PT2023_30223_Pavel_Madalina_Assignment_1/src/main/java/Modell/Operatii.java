@@ -403,8 +403,7 @@ public class Operatii {
                         }
 
                     }
-                    if(exp.compareTo("1")>0 && matcher.group().contains("^")==false)
-                        contf++;
+
 
 
                     poli.getPpolinom().put(Integer.parseInt(exp), Float.parseFloat(coef));
